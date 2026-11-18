@@ -15,16 +15,15 @@
     "artifacts": [
       {
         "name": "agilex_piper-2.0.0-py3-none-any.whl",
-        "size": 135557,
-        "sha256": "2481b20b163018d0afbd161b77528289e11e350cdd05c904ead056eac0712605"
+        "size": 135557
       },
       {
         "name": "agilex_piper-2.0.0.tar.gz",
-        "size": 131961,
-        "sha256": "52c52a628dd0241f06ef9b6d54fe2690f66e25d1ba79c53bd20670ac0521585e"
+        "size": 131961
       }
     ]
   },
+  "source_profile_scope": "Local candidate worktrees; proposed maintenance changes are not deployed or merged yet. Full checksums and raw logs remain in the local workspace.",
   "source_profiles": [
     {
       "repo": "PhyAgentOS/adapter-robot-piper",
