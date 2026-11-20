@@ -1,3 +1,5 @@
+[简体中文](README_zh.md)
+
 # Agilex Piper Robot Adapter
 
 [查看机器人构型说明](description.md) ·
@@ -167,3 +169,7 @@ Agilex Piper 真机 / Dora 节点实现位于
 MIT 许可；完整归属见 [NOTICE](NOTICE) 和
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。Apache-2.0 不授予
 AgileX、Piper 或其他第三方商标的使用权。
+
+## CI policy
+
+Automated dependency vulnerability audits are not maintained as CI or merge gates on this branch. Existing tests, builds, and other checks remain in place. Removing the audit gate does not change locked dependencies or resolve previously reported vulnerabilities.
